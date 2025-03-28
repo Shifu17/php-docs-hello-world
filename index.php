@@ -1,5 +1,5 @@
 
 <?php
-echo "Hola a todos y todas, que tengan un excelente dia.";
+echo "Hola mundo!";
 
 ?>
